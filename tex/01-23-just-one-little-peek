@@ -1,12 +1,18 @@
-Just One Little Peek
+\documentclass[easypeasy.tex]{subfiles}
+\chapter{Just One Little Peek}
+\begin{document}
 
 This is the undoing on many PMOers on the willpower method. They will go through three or four days and then have the odd peek or PMO to tide them over. They do not realise the devastating effect this has on their morale. 
 
 For most PMOers that first peek at the tube site harem was not as good as sex with a real person. The clips that are clean are far in between, giving their conscious minds a boost. Thinking, "Good, that wasn't entirely all that enjoyable. I'm losing the urge to PMO and am not that into the shocking stuff." In fact, the reverse is the case. Get it clear in your mind, enjoyment of orgasm wasn't the reason you hit porn. If PMOers were there for orgasm alone, they'd never watch more than one clip. The only reason why you had to PMO was to feed that little monster. Just think, you had starved it for four days, how precious that one peek must have been to it. You aren't aware of it in your conscious mind, but the fix your body received will be communicated to your subconscious mind and all your sound preparation will be undermined. There will be a little voice at the back of your mind saying that in spite of all logic they are precious and that you want another one.
 
 That little peek has two damaging effects:
-  1) It keeps the little monster alive in your body.
-  2) Worse, it keeps the big monster alive in your mind. If you had the 'last peek' it will be easier to have the next one.
+\begin{enumerate}
+  \item It keeps the little monster alive in your body.
+  \item Worse, it keeps the big monster alive in your mind. If you had the 'last peek' it will be easier to have the next one.
+\end{enumerate}
 
 Above all, remember:
-  \huge{"Just one peek" is how people get into PMO addiction in the first place.}
+  {\huge 'Just one peek' is how people get into PMO addiction in the first place.}
+
+\end{document}
