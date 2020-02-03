@@ -1,7 +1,16 @@
-\documentclass[a4paper,oneside]{memoir}
+\documentclass[a4paper,oneside,10pt]{memoir}
 \usepackage{subfiles}
-\usepackage{dirtytalk}
-\linespread{1.4}
+\usepackage{titling}
+\usepackage[T1]{fontenc}
+\usepackage[sfdefault,scaled=.90]{FiraSans}
+\usepackage{newtxsf}
+\parskip=3pt
+\usepackage{enumitem}
+\setlist{topsep=4pt,itemsep=2pt,partopsep=3pt, parsep=3pt}
+
+\setlrmarginsandblock{3cm}{2.5cm}{*}
+\setulmarginsandblock{2.5cm}{2.5cm}{*}
+\checkandfixthelayout
 
 \begin{document}
 \subfile{tex/00-00-easypeasyway}
