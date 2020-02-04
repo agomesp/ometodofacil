@@ -6,4 +6,4 @@ build:
     paths:
       - easypeasy.pdf
   script:
-    - latexmk -pdf easypeasy.tex
+    - xelatex easypeasy.tex
