@@ -1,7 +1,9 @@
-compile_pdf:
-  image: aergus/latex
-  script:
-    - xelatex easypeasy/easypeasy.tex
+image: ctornau/latex
+
+build:
+  stage: build
   artifacts:
     paths:
-      - easypeasy/easypeasy.pdf
+      - easypeasy.pdf
+  script:
+    - latexmk -pdf easypeasy.tex
