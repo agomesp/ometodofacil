@@ -1,0 +1,7 @@
+compile_pdf:
+  image: aergus/latex
+  script:
+    - xelatex easypeasy/easypeasy.tex
+  artifacts:
+    paths:
+      - easypeasy/easypeasy.pdf
