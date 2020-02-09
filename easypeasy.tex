@@ -4,13 +4,19 @@
 \usepackage[T1]{fontenc}
 \usepackage[sfdefault,scaled=.90]{FiraSans}
 \usepackage{newtxsf}
+\usepackage{ragged2e}
+\usepackage{microtype}
+\usepackage[all]{nowidow}
 \parskip=3pt
 \usepackage{enumitem}
 \setlist{topsep=4pt,itemsep=2pt,partopsep=3pt, parsep=3pt}
+\hyphenpenalty=500
 
 \setlrmarginsandblock{2cm}{2.5cm}{*}
 \setulmarginsandblock{2.5cm}{1.5cm}{*}
 \checkandfixthelayout
+
+\RaggedRight
 
 \begin{document}
 \subfile{tex/00-00-easypeasyway}
