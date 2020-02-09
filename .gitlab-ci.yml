@@ -1,9 +1,0 @@
-image: ctornau/latex
-
-build:
-  stage: build
-  artifacts:
-    paths:
-      - easypeasy.pdf
-  script:
-    - xelatex easypeasy.tex
