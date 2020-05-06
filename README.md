@@ -10,4 +10,4 @@ latexmk -pdf easypeasy.tex
 
 On Windows, download a tex editor such as [texworks](https://www.tug.org/texworks/) and compile it using XeLaTeX.
 
-Versions are numbered using [semantic versioning](https://semver.com).
+Versions are numbered using [semantic versioning](https://semver.org).
