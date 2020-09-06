@@ -25,3 +25,4 @@
 *.fls
 *.fdb
 *.fdb_latexmk
+.Rproj.user

@@ -12,9 +12,9 @@ In this cycle you crossed the ’red line’ and triggered emotions such as guil
 
 As time passes, not only is the brain desensitised to previous clips it's seen, but also similar genres and shock level. This lower motivation triggers feelings of lower satisfaction as our brains engage in constant rating, pushing you to find clips to satisfy the hunger. So you seek more novelty, clicking on the amateurish, shock inducing clip on the homepage you confidently said you wouldn't on your first visit.
 
->*"For in the dew of little things the heart finds it’s morning and is refreshed"
+> *"For in the dew of little things the heart finds it's morning and is refreshed"*
 >
-> `r tufte::quote_footer('--- Kahlil Gibran')`
+> --- Kahlil Gibran
 
 
 A fleeting feeling of security is all that's needed to get through a rough spot in life, but will your desensitised brain be able to catch that drop of destresser that a non-user’s brain is able to use?
