@@ -1,6 +1,6 @@
 --- 
 title: "Easypeasy"
-author: "Hackauthor2"
+author: "Fraser Patterson"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -10,12 +10,49 @@ link-citations: yes
 description: "Quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
 ---
 
-# EasyPeasy Primer {-}
+<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
 
-Don't read this book like a novel
-  Most benefit from re-reading the book a couple of times
-  Taking notes
-  Doesn't take long
-  Audiobook
+This is a rewritten version of a [rewrite](https://sites.google.com/site/hackbookeasypeasy) adapting *Allen Carr's EasyWay to Stop Smoking* for pornography. It's also *completely free* and [open source](https://gitlab.com/snuggy/easypeasy). I'm not the original author of either of these books, I'm the Hackauthor.
 
-DO NOT SKIP CHAPTERS
+It's very effective, but critical to your success requires that you:
+
+<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+
+When opening a combination lock, you have to enter the numbers in the right order. Addiction isn't any different.
+
+The method described in this hackbook is:
+-   Instantaneous.
+-   Equally as effective for the heavy and casual user alike.
+-   Causes no bad withdrawal pangs.
+-   Needs no willpower.
+-   Requires no shock treatment, aids, or gimmicks.
+-   Won't cause you to replace this addiction with other addictions, such as overeating, smoking or drinking.
+-   Permanent.
+
+You might find this impossible to believe, but this sentiment is echoed my many people.
+
+> *"This is the seminal work on porn addiction"*
+>
+> --- Some guy on reddit I can't find, don't think the pun was intentional.
+
+> "*This book is gold. It's unbelievable I can access this content for free, this simple book with less than 100 pages. It's also unbelievable how much money I've spent on courses and how many hows wasted digging r/nofap for 0 results*"
+>
+> --- u/OyaPunpun (good manga btw)
+
+> "*I was addicted for 10 years. Those 10 years I was crippled with depression, doubt, anxiety, and fear of my secret getting out. After every session, I hated myself, and after every porn diet I was back down the water slide in no time. However, this book helped me stop. I was always on the defensive against porn in the past. Now, after reading this book twice, I am on the offensive. Porn has no control over me and feels like a sad joke now."
+>
+> --- u/DeepNewt
+
+> "*based*"
+>
+> --- anon, /fit/
+
+<span style="font-size:larger;">**Tips for reading:**</span>
+
+Don't read this book like a normal book, it's very short, and you should be able to finish it within a couple of hours. Most people benefit from highlighting or taking notes, and usually recommend rereading it a few times to fully solidify the lessons.
+
+A number of communities exist for the hackbook as well, but would recommend checking them out only after you've finished reading the book.
+[urbit](https://urbit.org): mislyr-midnyt/easypeasy | [coomer.org imageboard](https://boards.coomer.org) | [discord]() | [reddit]() | 
+
+Quick reminder:
+<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
