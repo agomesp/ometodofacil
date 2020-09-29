@@ -31,9 +31,9 @@ description: "Quit pornography immediately, without willpower or any sense of de
 
 # Preface {-}
 
-**EasyPeasy (formerly pmohackbook.org) v2 beta** Phew! Lot better than just a PDF on a page, please [provide feedback here.](https://boards.coomer.org/easy/res/1.html)
+**EasyPeasy v2 beta** - Now featuring an easily pronounceable domain name. Couple of things to polish, but this should be very close to final. Please [provide feedback here](https://boards.coomer.org/easy/res/1.html) and submit your [changes through Gitlab](https://gitlab.com/snuggy/easypeasy/) (create an account, fork repository and use web IDE)
 
-Feel free to start translating (they'll be a video guide on how to soon) but you can find basic instructions in the Git repository
+Feel free to start translating (they'll be a video guide on how to soon) but you can find basic instructions in the Git repository.
 
 <img src="images/easypeasy.jpg" width="350" height="460" alt="Cover image" />
 
@@ -105,12 +105,14 @@ A number of communities exist for the hackbook as well, but would recommend chec
 
 [urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (new!)](https://coomer.org) | [public analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
 
-Quick reminder:
-
-<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+Quick reminder: <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
 
 I'd wish you luck, but as you'll soon come to learn, you don't need it.
 
 Good vibes,
 
 Hackauthor²
+
+<img src="images/cc.png" width="88" height="31" alt="Creative Commons license image" />
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Code is [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).
