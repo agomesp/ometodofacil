@@ -41,7 +41,7 @@ vignettes/*.pdf
 _book/*
 
 # I'm not sure if this part works yet
-/*_output/*
+/*_files/
 
 # System files
 *.DS_Store

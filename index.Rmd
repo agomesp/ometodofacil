@@ -31,6 +31,10 @@ description: "Quit pornography immediately, without willpower or any sense of de
 
 # Preface {-}
 
+**EasyPeasy (formerly pmohackbook.org) v2 beta** Phew! Lot better than just a PDF on a page, please [provide feedback here.](https://boards.coomer.org/easy/res/1.html)
+
+Feel free to start translating (they'll be a video guide on how to soon) but you can find basic instructions in the Git repository
+
 <img src="images/easypeasy.jpg" width="350" height="460" alt="Cover image" />
 
 <!---[RU 🇷🇺](ru/index.html) --->
