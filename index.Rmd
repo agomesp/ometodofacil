@@ -36,7 +36,7 @@ description: "Quit pornography immediately, without willpower or any sense of de
 
 # Preface {-}
 
-**EasyPeasy v2 beta** - Now featuring an easily pronounceable domain name. Couple of things to polish, but this should be very close to final. Please [provide feedback here](https://boards.coomer.org/easy/res/1.html) and submit your [changes through Gitlab](https://gitlab.com/snuggy/easypeasy/) (create an account, fork repository and use web IDE)
+**EasyPeasy v2 beta** - Now featuring an easily pronounceable domain name. Still a couple of things to polish, but this should be very close to final. Please [provide feedback here](https://boards.coomer.org/easy/res/1.html) and submit your [changes through Gitlab](https://gitlab.com/snuggy/easypeasy/) (create an account, fork repository and use web IDE)
 
 Feel free to start translating (they'll be a video guide on how to soon) but you can find basic instructions in the Git repository.
 
@@ -108,7 +108,7 @@ Throughout this book, myself, the original Hackauthor, and Allen Carr will appea
 
 A number of communities exist for the hackbook as well, but would recommend checking them out only after you've finished reading the book.
 
-[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (new!)](https://coomer.org) | [public analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
+[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (new!)](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
 
 Quick reminder: <span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
 
