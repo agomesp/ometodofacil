@@ -1,6 +1,6 @@
 # EasyPeasy
 
-Git repository for EasyPeasy, adapting *Allen Carr's EasyWay to Stop Smoking* for porn addiction. 
+Git repository for EasyPeasy, adapting *Allen Carr's EasyWay to Stop Smoking* for porn addiction.
 
 It's written in R Markdown, and compiled using Bookdown.
 
