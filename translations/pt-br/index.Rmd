@@ -1,4 +1,4 @@
---- 
+---
 title: "EasyPeasy"
 author: "Hackauthor²"
 date: "`r Sys.Date()`"
@@ -15,7 +15,7 @@ output:
       in_header: header.html
   pdf_document:
     includes:
-      in_header: preamble.tex  
+      in_header: preamble.tex
 
 documentclass: book
 bibliography: [book.bib, packages.bib]
@@ -29,23 +29,24 @@ favicon: "favicon.ico"
 description: "Quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
 ---
 
-# Preface {-}
+# Prefácio {-}
 
 <img src="images/easypeasy.jpg" width="350" height="460" alt="Cover image" />
 
 <!---[RU 🇷🇺](ru/index.html) --->
 
-<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+<span style="font-size:larger;">**NÃO PULE CAPÍTULOS**</span>
 
-This is a rewritten version of a [rewrite](https://sites.google.com/site/hackbookeasypeasy) adapting *Allen Carr's EasyWay to Stop Smoking* for pornography. It's also **completely free** and [open source](https://gitlab.com/snuggy/easypeasy). I'm not the original author of either of these books, I'm the Hackauthor².
+Essa é uma versão [reescrita](https://sites.google.com/site/hackbookeasypeasy)  do hackbook adaptando o livro *Allen Carr's EasyWay to Stop Smoking* para a pornografia. É também **completamente livre** e [open source](https://gitlab.com/snuggy/easypeasy). Não sou o autor original de nenhum desses dois livros. Sou o Hackauthor².
 
-It's very effective, but critical to your success requires that you:
+É efetivo, mas para que tenha sucesso é necessario que você:
 
-<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
+<span style="font-size:larger;">**NÃO PULE CAPÍTULOS**</span>
 
-When opening a combination lock, you have to enter the numbers in the right order. Addiction isn't any different.
+Ao abrir um cofre você deve digitar os números na ordem correta.
+Vício não é diferente disso.
 
-Personally, the [original Google Sites version](https://sites.google.com/site/hackbookeasypeasy) (that wasn't written by me) changed my life. If you're anything like most people, you discovered porn when relatively young and have used it ever since. Until stumbling across the overwhelming -- yet somewhat censored -- literature warning of the dangers. Like myself, you've probably succeeded with streaks of various lengths, but have always eventually succumbed to illusory urges. I'm pleased to report this method works entirely differently, and has been the only method that has worked.
+Pessoalmente, a [versão original no Google Sites](https://sites.google.com/site/hackbookeasypeasy) (que não foi escrita por mim) mudou minha vida. Se você é como a maioria das pessoas, acabou descobrindo a pornografia quando era bem jovem e passou a utilizar desde então. Até se deparar com a chocante -- e ainda censurada -- pesquisas alertando sobre os riscos. Como eu, você teve sucesso com diversos períodos de abstinência de diversos tamanhos mas sempre recaiu com desejos fortes e ilusórios. Sinto prazer em dizer que esse método funciona totalmente diferente e tem sido o único método que tem funcionado.
 
 Or perhaps, you've been linked this book by a concerned party and are skeptical. Firstly, thank you for at least looking at it. This will be expanded upon shortly, but please briefly recall the first time you looked at pornography. Did you expect that you'd return to it for the rest of your life? According to my own informal studies on the matter (pestering friends to read this book), EasyPeasy is equally as effective for the casual porn user as it is for the heavily addicted. It's not terribly long, with high chances of large gains, so I beg you to continue reading.
 
@@ -89,7 +90,7 @@ His body of work deals with dispelling fear caused by misconceptions and confusi
 
 Why the hackbook? Because Allen Carr has long since passed away and the institutions he's formed don't list internet pornography as one of the addictions they provide treatment for. I don't gain monetarily or otherwise.
 
-<span style="font-size:smaller;">**Hackbook:** A book based and hacked from another book. The original author is fully credited. </span> 
+<span style="font-size:smaller;">**Hackbook:** A book based and hacked from another book. The original author is fully credited. </span>
 
 Throughout this book, myself, the original Hackauthor, and Allen Carr will appear transparently in order to provide you with a unique and compelling method to easily and painlessly quit.
 
