@@ -26,7 +26,7 @@ cover-image: "images/easypeasy.jpg"
 apple-touch-icon: "touch-icon.png"
 apple-touch-icon-size: 120
 favicon: "favicon.ico"
-description: "Quit pornography immediately, without willpower or any sense of deprivation or sacrifice."
+description: "Se livre da pornografia imediatamente, sem precisar de força de vontade ou qualquer sensação de privação e sacrifício."
 ---
 
 # Prefácio {-}
@@ -48,66 +48,57 @@ Vício não é diferente disso.
 
 Pessoalmente, a [versão original no Google Sites](https://sites.google.com/site/hackbookeasypeasy) (que não foi escrita por mim) mudou minha vida. Se você é como a maioria das pessoas, acabou descobrindo a pornografia quando era bem jovem e passou a utilizar desde então. Até se deparar com a chocante -- e ainda censurada -- pesquisas alertando sobre os riscos. Como eu, você teve sucesso com diversos períodos de abstinência de diversos tamanhos mas sempre recaiu com desejos fortes e ilusórios. Sinto prazer em dizer que esse método funciona totalmente diferente e tem sido o único método que tem funcionado.
 
-Or perhaps, you've been linked this book by a concerned party and are skeptical. Firstly, thank you for at least looking at it. This will be expanded upon shortly, but please briefly recall the first time you looked at pornography. Did you expect that you'd return to it for the rest of your life? According to my own informal studies on the matter (pestering friends to read this book), EasyPeasy is equally as effective for the casual porn user as it is for the heavily addicted. It's not terribly long, with high chances of large gains, so I beg you to continue reading.
+Talvez alguém tenha te indicado esse livro e está cético. Primeiro, obrigado por pelo menos dar uma olhada nele. Isso vai ser explicado melhor depois mas por favor lembre-se rapidamente a primeira vez que teve contato com a pornografia. Você esperava que voltaria a ela pelo resto da sua vida? De acordo com meus estudos informais sobre o assunto (perturbando meus amigos para lerem esse livro), EasyPeasy é eficaz tanto para o usuário casual de pornografia quanto para o viciado pesado. Não é longo e há grandes chances de ter muitos ganhos, por isso eu te imploro a continuar lendo.
 
-The method described in this hackbook is:
+O método descrito nesse hackbook é:
+-   Instantâneo
 
--   Instantaneous.
+-   Igualmente efetivo para o usuário casual e o mais viciado
 
--   Equally as effective for the heavy and casual user alike.
+-   Não causa péssimos anseios
 
--   Causes no bad withdrawal pangs.
+-   Não precisa de força de vontade
 
--   Needs no willpower.
+-   Não necessita de tratamento de choque, auxílios ou truques
 
--   Requires no shock treatment, aids, or gimmicks.
+-   Não causará a troca de um vício pelo outro, como compulsão alimentar, beber ou fumar
 
--   Won't cause you to replace this addiction with other addictions, such as overeating, smoking or drinking.
+-   Permanente
 
--   Permanent.
+Talvez você ache isso impossível de acreditar, mas esse sentimento é propagado por muitas pessoas.
 
-You might find this impossible to believe, but this sentiment is echoed by many people.
-
-> *"This is the seminal work on porn addiction"*
+> "*Esse livro é ouro. É inacreditável que eu possa acessar esse conteúdo de graça, esse livro simples com menos de 100 páginas. É inacreditável também a quantidade d e dinheiro que eu gastei em cursos e quantas horas desperdiçadas procurando soluções em fórums e tendo 0 resultados*"
 >
-> --- Some guy on reddit I can't find, don't think the pun was intentional.
+> --- u/OyaPunpun  (usuário do reddit)
 
-> "*This book is gold. It's unbelievable I can access this content for free, this simple book with less than 100 pages. It's also unbelievable how much money I've spent on courses and how many hows wasted digging r/nofap for 0 results*"
+> "*Fui viciado por 10 anos. Esses 10 anos eu sofri com depressão, dúvidas, ansiedade e medo de que meu segredo se tornaria conhecido. Depois de cada sessão eu me odiava e a cada 'dieta' de porno que eu fazia eu voltava para o tobogã rapidamente. Mas esse livro me ajudou a parar. Eu ficava na defensiva sobre a pornografia no passado. Agora, depois de ler esse livro duas vezes estou na ofensiva. Pornô não tem mais controle sobre mim e agora parece uma piada triste.*"
 >
-> --- u/OyaPunpun (good manga btw)
+> --- u/DeepNewt (usuário do reddit)
 
-> "*I was addicted for 10 years. Those 10 years I was crippled with depression, doubt, anxiety, and fear of my secret getting out. After every session, I hated myself, and after every porn diet I was back down the water slide in no time. However, this book helped me stop. I was always on the defensive against porn in the past. Now, after reading this book twice, I am on the offensive. Porn has no control over me and feels like a sad joke now.*"
->
-> --- u/DeepNewt
+Allen Carr é um sujeito com uma vida extremamente interessante: por mais de trinta anos fumando 100 cigarros por dia Allen parou de fumar imediatamente após descobrir *Easyway* e como citado no livro dele, isso "*o permitiu seguir um extremo desejo de explicar o seu método para o máximo possível de fumantes.*" O método dele para Álcool, e outras várias outras drogas e vícios, permanece sendo um bestseller global e encorajo a você a procurar mais sobre.
 
-> "*based*"
->
-> --- anon, /fit/
+O centro do seu trabalho lida com a dissipação do medo causada pelos equívocos e confusões sobre processos biológicos e o processo de se livrar do vício. Logo, a maior parte do livro é a desconstrução lógica das ansiedades e fobias associadas com o processo de saída do vício que geralmente levam a falha dos muitos que tentam e fracassam. As clínicas do Allen tem uma taxa de sucesso de acima de 95% com garatia de devolução do dinheiro. Mais importante, eles permitiram que seus pacientes vivam satisfatoriamente livre de seus vícios. 
 
-Allen Carr is a top bloke with an exceedingly interesting life: a hundred-a-day chain smoker for over thirty years, Carr stopped immediately after discovering *EasyWay*, and as quoted from his book, this "*enabled him to follow an overwhelming desire to explain his method to as many smokers as possible.*" His methods for alcohol, other drugs, and many other addictions remain global bestsellers and I'd encourage you to check them out.
+Por que hackbook? Porque Allen morreu tem tempo e a instituição que ele fundou não lista pornografia como um vício que eles tratam. Não ganho dinheiro nem nada com esse livro.
 
-His body of work deals with dispelling fear caused by misconceptions and confusion regarding biological processes and quitting. Therefore a majority of the book is spent logically deconstructing anxieties and phobias associated with quitting that generally lead to the downfall of many who attempt and fail. Carr's clinics have success rates of over ninety-five percent, with money-back guarantees. More importantly, they've allowed their patients to go on to live fulfilling lives free of their addictions.
+<span style="font-size:smaller;">**Hackbook:** Um livro baseado e hackeado de outro livro. O autor original tem todos os créditos. </span>
 
-Why the hackbook? Because Allen Carr has long since passed away and the institutions he's formed don't list internet pornography as one of the addictions they provide treatment for. I don't gain monetarily or otherwise.
+Durante o livro, eu, o autor original do Hackbook, e Allen Carr iremos aparecer transparentemente para lhe dar um método único e convincente de se livrar do vício facilmente e sem dor.
 
-<span style="font-size:smaller;">**Hackbook:** A book based and hacked from another book. The original author is fully credited. </span>
+<span style="font-size:larger;">**Dicas para a leitura:**</span>
 
-Throughout this book, myself, the original Hackauthor, and Allen Carr will appear transparently in order to provide you with a unique and compelling method to easily and painlessly quit.
+**Não leia esse livro como um livro normal**, é curto e você é capaz de terminar de ler em poucas horas. A maioria das pessoas obtêm benefícios ao *sublinhar e tomar notas* e normalmente é recomendado **reler** o livro algumas vezes para fixar melhor as lições.
 
-<span style="font-size:larger;">**Tips for reading:**</span>
+Muitas comunidades existem para o hackbook também, mas é recomendável acessar somente ao terminar o livro.
 
-**Don't read this book like a normal book**, it's very short, and you should be able to finish it within a couple of hours. Most people benefit from *highlighting or taking notes*, and usually recommend **rereading** it a few times to fully solidify the lessons.
+[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (novo!)](https://coomer.org) | [dados de acesso públicos](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
 
-A number of communities exist for the hackbook as well, but would recommend checking them out only after you've finished reading the book.
+Lembrança rápida:
 
-[urbit](https://urbit.org) - ~mislyr-midnyt/easypeasy | [coomer.org imageboard (new!)](https://coomer.org) | [public analytics](https://plausible.io/easypeasymethod.org) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook)
+<span style="font-size:larger;">**NÃO PULE CAPÍTULOS**</span>
 
-Quick reminder:
+Desejo sorte a você, mas como você aprenderá em breve você não precisará.
 
-<span style="font-size:larger;">**DO NOT JUMP CHAPTERS**</span>
-
-I'd wish you luck, but as you'll soon come to learn, you don't need it.
-
-Good vibes,
+Boa sorte,
 
 Hackauthor²
