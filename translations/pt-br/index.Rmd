@@ -1,6 +1,6 @@
 ---
-title: "EasyPeasy"
-author: "Hackauthor²"
+title: "Método Fácil"
+author: "HackauthorBR"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
@@ -77,7 +77,7 @@ Talvez você ache isso impossível de acreditar, mas esse sentimento é propagad
 
 Allen Carr é um sujeito com uma vida extremamente interessante: por mais de trinta anos fumando 100 cigarros por dia Allen parou de fumar imediatamente após descobrir *Easyway* e como citado no livro dele, isso "*o permitiu seguir um extremo desejo de explicar o seu método para o máximo possível de fumantes.*" O método dele para Álcool, e outras várias outras drogas e vícios, permanece sendo um bestseller global e encorajo a você a procurar mais sobre.
 
-O centro do seu trabalho lida com a dissipação do medo causada pelos equívocos e confusões sobre processos biológicos e o processo de se livrar do vício. Logo, a maior parte do livro é a desconstrução lógica das ansiedades e fobias associadas com o processo de saída do vício que geralmente levam a falha dos muitos que tentam e fracassam. As clínicas do Allen tem uma taxa de sucesso de acima de 95% com garatia de devolução do dinheiro. Mais importante, eles permitiram que seus pacientes vivam satisfatoriamente livre de seus vícios. 
+O centro do seu trabalho lida com a dissipação do medo causada pelos equívocos e confusões sobre processos biológicos e o processo de se livrar do vício. Logo, a maior parte do livro é a desconstrução lógica das ansiedades e fobias associadas com o processo de saída do vício que geralmente levam a falha dos muitos que tentam e fracassam. As clínicas do Allen tem uma taxa de sucesso de acima de 95% com garatia de devolução do dinheiro. Mais importante, eles permitiram que seus pacientes vivam satisfatoriamente livre de seus vícios.
 
 Por que hackbook? Porque Allen morreu tem tempo e a instituição que ele fundou não lista pornografia como um vício que eles tratam. Não ganho dinheiro nem nada com esse livro.
 
@@ -101,4 +101,4 @@ Desejo sorte a você, mas como você aprenderá em breve você não precisará.
 
 Boa sorte,
 
-Hackauthor²
+HackauthorBR
